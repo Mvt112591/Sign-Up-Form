@@ -1,0 +1,70 @@
+body {
+	background-color: #298eea;
+}
+
+img {
+    display: block;
+    height: 35px;
+    width: auto;
+    margin: 15px auto -85px;
+}
+
+fieldset {
+	margin-top: 100px;
+	border: 0;
+}
+
+#legend {
+	font-size: 32px;
+	margin: auto;
+}
+
+form {
+	border-radius: 25px;
+	background-color: white;
+	width: 400px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.form {
+	font-size: 24px;
+	text-align: center;
+	margin: auto;
+	display: block;
+	border-color: #DCDCDC;
+	border-radius: 3px;
+}
+
+
+input, button {
+	width: 320px;
+	border: 2px solid;
+	padding: 15px;
+	height: 55px;
+}
+
+label {
+	position: relative;
+	left: -125px;
+}
+
+button {
+	background-color: #15CD72;
+	color: white;
+}
+
+div {
+	margin-top: 20px;
+}
+
+section {
+	margin-top: 15px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+a {
+	color: white;
+}
